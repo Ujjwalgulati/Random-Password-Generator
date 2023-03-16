@@ -1,6 +1,6 @@
 # Random-Password-Generator
 This is a python program for random password generator.
-first we import 'random' module and string module
+first we import 'random' module and 'string' module
  In this program we make def function generate_password which will help in generating a random password for a user
  after writing the def function we write the function defination inside a  function 
  lowercase characters,uppercase characters,special characters,symbols and digits
